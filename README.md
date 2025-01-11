@@ -26,8 +26,7 @@ Este programa permite converter valores entre diferentes unidades de medida, com
 2. Execute o programa:
 
 ```bash
-    Copiar código
-    python conversor_de_unidades.py
+    python unit_converter
 ```
     
 3. Siga as instruções no terminal para:
@@ -39,7 +38,6 @@ Este programa permite converter valores entre diferentes unidades de medida, com
 ## Exemplo de Execução
 
 ```bash
-    Copiar código
     === Conversor de Unidades de Medida ===
     Escolha o tipo de conversão:
     1. Metros para Quilômetros
