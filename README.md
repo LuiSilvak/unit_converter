@@ -54,9 +54,9 @@ Este programa permite converter valores entre diferentes unidades de medida, com
 ```
 
 ## Melhorias Futuras
-Adicionar mais unidades de medida, como milhas, libras e litros.
-Criar uma interface gráfica para facilitar o uso.
-Salvar o histórico das conversões realizadas.
+- Adicionar mais unidades de medida, como milhas, libras e litros.
+- Criar uma interface gráfica para facilitar o uso.
+- Salvar o histórico das conversões realizadas.
 
 
 ## Licença
